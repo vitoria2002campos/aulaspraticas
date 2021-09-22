@@ -1,24 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Are+You+Serious&display=swap');
-
-body{
-    
-    background-color: rgba(0, 174, 255, 0.26)
+body {
+    background-image: linear-gradient(to bottom, rgba(22, 142, 190, 0.829), rgba(128, 0, 128, 0.767));
 }
 
-
-.font{
+.font {
     font-family: 'Are You Serious', cursive;
-    font-size:53px;
+    font-size: 53px;
 }
 
+.menu {
+    font-size: 25px;
+}
 
-.tm-social{
+.tm-social {
     width: 50px;
-    height:50px;
+    height: 50px;
 }
 
-.bg-purple{
-    background-image:linear-gradient(to bottom, white, purple);
-    
+.bg-purple {
+    background-image: linear-gradient(to bottom, rgb(41, 40, 40), purple);
 }
 
+.colorfont {
+    color: white;
+}
+
+.textop {
+    font-size: 20px;
+}
